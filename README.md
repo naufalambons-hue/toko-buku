@@ -12,7 +12,7 @@ REST API katalog buku (kategori dan buku) dengan Laravel. Praktikum Teknologi We
 
 ## Instalasi
 ```
-git clone https://github.com/USERNAME/toko-buku.git
+git clone https://github.com/naufalambons-hue/toko-buku.git
 cd toko-buku
 composer install
 cp .env.example .env
